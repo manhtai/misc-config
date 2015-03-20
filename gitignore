@@ -1,4 +1,5 @@
 .DS\_Store
 *.sw?
+*.pyc
 __*__
 
