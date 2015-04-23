@@ -1,1 +1,1 @@
-COMMAND firefox
+COMMAND firefox %s &
